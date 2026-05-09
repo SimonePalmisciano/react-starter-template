@@ -1,8 +1,9 @@
-import HelloClasse154 from "./components/HelloClasse154";
+import Main from "./components/Main/Main";
+
 
 function App() {
   return (
-    <HelloClasse154 />
-  );
+    <Main />
+  )
 }
 export default App;
